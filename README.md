@@ -53,6 +53,6 @@
 <a href="https://twitter.com/Genius_Nirmit" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
-<a href="https://www.linkedin.com/in/nirmit-pandya-b0a441232/" target="_blank">
+<a href="https://www.linkedin.com/in/krish-kanani-9510b9226/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 </p>
