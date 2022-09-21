@@ -3,8 +3,8 @@
 
 - 🤓 A passionate Developer and Competitive Programmer.
 - 💻 I’m interested in Web Development, DevOps and Cloud Computing.
-- 🌱 I’m currently learning DSA and various Web Technologies.
-- 📫 You can reach me with the email --> nirmitrptp@gmail.com
+- 🌱 I’m currently learning DSA and various Web Techs.
+- 📫 You can reach me with the email --> kirshkanani8@gmail.com
     
 <br>
 
