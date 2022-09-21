@@ -30,6 +30,7 @@
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" width="40" height="40"/> </a> &nbsp; &nbsp;
 
 </p>
 
