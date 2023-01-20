@@ -36,6 +36,10 @@
 
 <br>
 
+# Leetcode Stats 🏆
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/krishkanani?ext=heatmap)
+
  
 ## Github Stats 🏆
 
