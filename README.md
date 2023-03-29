@@ -4,7 +4,7 @@
 - 🤓 A passionate Developer and Competitive Programmer.
 - 💻 I’m interested in Web Development, DevOps and Cloud Computing.
 - 🌱 I’m currently learning DSA and various Web Techs.
-- 📫 You can reach me with the email --> kirshkanani8@gmail.com
+- 📫 You can reach me with the email --> krishkanani148@gmail.com
     
 <br>
 
